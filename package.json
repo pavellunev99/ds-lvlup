@@ -1,0 +1,11 @@
+{
+  "name": "lvlupbot",
+  "version": "1.0.0",
+  "description": "Discord spambot to level up profiles on other bots",
+  "main": "app.js",
+  "author": "Pavel",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:ajmeese7/discord.js#v11"
+  }
+}
