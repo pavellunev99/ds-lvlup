@@ -3,8 +3,11 @@
 Порядок действий:
 
 получаем токен и вписываем в файле config.json
+
 cd lvlupbot
+
 npm install
+
 node bot.js
 
 пишем /usernotify в канале - команда сразу удаляется и процесс пошел
